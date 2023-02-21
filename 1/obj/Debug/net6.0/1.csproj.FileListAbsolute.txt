@@ -1,0 +1,15 @@
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/bin/Debug/net6.0/1
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/bin/Debug/net6.0/1.deps.json
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/bin/Debug/net6.0/1.runtimeconfig.json
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/bin/Debug/net6.0/1.dll
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/bin/Debug/net6.0/1.pdb
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/obj/Debug/net6.0/1.csproj.AssemblyReference.cache
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/obj/Debug/net6.0/1.AssemblyInfo.cs
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/obj/Debug/net6.0/1.dll
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/obj/Debug/net6.0/refint/1.dll
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/obj/Debug/net6.0/1.pdb
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/obj/Debug/net6.0/1.genruntimeconfig.cache
+/Users/Anton/Desktop/Обучение GeekBrains/Знакомство с языками програмирования/4/HomeWork4/1/obj/Debug/net6.0/ref/1.dll
